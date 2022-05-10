@@ -21,3 +21,56 @@ body {
     width: 100vw;
     background-size: cover;
 }
+/* navbar /header */
+
+#logo-border {
+    border: 3px solid #FFD700;
+}
+
+#logo {
+    font-size: 40px;
+    color: #FFD700;
+    margin-left: 20px;
+    padding-top: 5px;
+    float: left;
+    letter-spacing: 4px;
+    font-weight: 300;
+
+}
+
+#logo:hover {
+    color: lightblue;
+}
+
+#logo a {
+    text-decoration: none;
+    color: inherit;
+}
+
+header {
+    height: 58px;
+    background-color: #12647F;
+    border-bottom: 2px solid #FFD700;
+    top: 0;
+    left: 0;
+    position: fixed;
+    width: 100vw;
+}
+
+nav li {
+    float: right;
+    list-style: none;
+    padding: 20px;
+    text-transform: uppercase;
+    color: #FFD700;
+    letter-spacing: 4px;
+}
+
+nav a {
+    color: #FFD700;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: lightblue;
+}
