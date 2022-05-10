@@ -8,7 +8,7 @@ body {
     font-family: 'Lato', sans-serif;
     min-height: 100%;
     position: relative;
-  
+
 
 }
 
@@ -21,6 +21,7 @@ body {
     width: 100vw;
     background-size: cover;
 }
+
 /* navbar /header */
 
 #logo-border {
@@ -73,4 +74,58 @@ nav a {
 
 nav a:hover {
     color: lightblue;
+}
+
+/* about */
+#about {
+    background-color: #12647F;
+    padding-top: 5%;
+    display: inline-block;
+    padding-bottom: 5%;
+}
+
+hr {
+    border: 3px solid #FFD700;
+}
+
+
+
+
+#left-about {
+    max-width: 50%;
+    float: left;
+    margin-left: 100px;
+    margin-top: 25px;
+    display: inline-block;
+    border: 5px solid #FFD700;
+    padding: 10px;
+    border-radius: 5%;
+    word-wrap: break-word;
+}
+
+#right-about {
+    max-width: 50%;
+    float: right;
+    display: inline-block;
+    margin-right: 100px;
+    margin-top: 70px;
+    border: 5px solid #FFD700;
+    padding: 10px;
+    border-radius: 5%;
+
+}
+
+#left-about p,
+#right-about p {
+    color: #FFD700;
+    font-size: 1.8em;
+    letter-spacing: 0.2rem;
+    line-height: 2.5rem;
+    font-family: 'Source Serif Pro', serif;
+    font-weight: 100;
+    text-align: center;
+}
+
+#right-about p {
+    /* text-align: right; */
 }
