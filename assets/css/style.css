@@ -129,3 +129,36 @@ hr {
 #right-about p {
     /* text-align: right; */
 }
+
+/* footer */
+#footer {
+   width:100vw;
+   height:150px;
+    display: inline-block;
+    background-color: lightblue;
+}
+
+ #social-links {
+    text-align: center;
+ 
+    
+ }
+
+#social-links > li {
+    display: inline;
+    
+} 
+
+
+
+#social-links i {
+    font-size: 200%;
+    color: #005AA7;
+    padding: 50px;
+    text-align: center;
+} 
+
+#social-links i:hover {
+    color: #FFD700;
+} 
+ 
