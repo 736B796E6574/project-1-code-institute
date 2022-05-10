@@ -168,6 +168,8 @@ hr {
     color: #FFD700;
 }
 
+/* hamburger */
+
 .hamburger {
     display: none;
     cursor: pointer;
