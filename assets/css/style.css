@@ -12,7 +12,7 @@ body {
 
 }
 
-.italic{
+.italic {
     font-style: italic;
 }
 
@@ -86,7 +86,7 @@ nav a:hover {
     padding-top: 5%;
     display: inline-block;
     padding-bottom: 5%;
-    
+    vertical-align: top;
 }
 
 hr {
@@ -107,7 +107,6 @@ hr {
     border-radius: 5%;
     word-wrap: break-word;
     background-color: #fafafa
-   
 }
 
 #right-about {
@@ -124,14 +123,14 @@ hr {
 
 #left-about p,
 #right-about p {
-    color: #353839 ;
+    color: #353839;
     font-size: 1.8em;
     letter-spacing: 0.2rem;
     line-height: 2.5rem;
     font-family: 'Source Serif Pro', serif;
     font-weight: 300;
     text-align: center;
-   
+
 }
 
 #right-about p {
@@ -140,33 +139,33 @@ hr {
 
 /* footer */
 #footer {
-   width:100vw;
-   height:150px;
+    width: 100vw;
+    height: 100%;
     display: inline-block;
     background-color: lightblue;
+    vertical-align: top;
 }
 
- #social-links {
+#social-links {
     text-align: center;
- 
-    
- }
 
-#social-links > li {
+
+}
+
+#social-links>li {
     display: inline;
-    
-} 
+
+}
 
 
 
 #social-links i {
-    font-size: 200%;
+    font-size: 400%;
     color: #005AA7;
     padding: 50px;
     text-align: center;
-} 
+}
 
 #social-links i:hover {
     color: #FFD700;
-} 
- 
+}
