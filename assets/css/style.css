@@ -223,8 +223,8 @@ hr {
     .nav-item {
         margin: 16px 0;
     }
-    
-    .nav-menu.active{
+
+    .nav-menu.active {
         left: 0;
 
     }
@@ -237,21 +237,21 @@ hr {
     text-align: center;
 }
 
-#video{
+#video {
     margin: 50px 0;
     border: 5px solid #FFD700;
-   
+
 }
 
-.audio-heading-1, .audio-heading-2{
-font-size: 1.5rem;
-color: #FFD700;
+.audio-heading-1,
+.audio-heading-2 {
+    font-size: 1.5rem;
+    color: #FFD700;
+    margin:20px;
 }
 
-.audio-heading-2{
+.audio-heading-2 {
     padding-bottom: 50px;
 }
 
-#audio-container{
-
-}
+#audio-container {}
