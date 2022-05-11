@@ -229,3 +229,15 @@ hr {
 
     }
 }
+
+#media {
+    background-color: #12647F;
+    width: 100vw;
+    height: 600px;
+    text-align: center;
+}
+
+#video{
+    padding: 50px 0;
+    border: 5px solid #FFD700;
+}
