@@ -126,7 +126,16 @@ Users of this website will be able to hear some samples of the artists work and 
     - From the source section drop-down menu, select the master branch.
     - Once the master branch had been selected, the page provided the link to the completed website.
 
-The live link can be found here [Supa Sax](https://martin-mcinerney.github.io/project-1-code-institute/index.html)
+The live link can be found here [Supa Sax](https://martin-mcinerney.github.io/project-1-code-institute/index.html).
+
+## Credits
+
+### Content
+- I didn't know how to make a hamburger menu and I thought it was a vital addition to the site. I watched [this tutorial](https://www.youtube.com/watch?v=flItyHiDm7E) to learn how to do it. A lot of the code there was no point in changing so I left it as is in the tutorial but there were some parts that I had to change to fit my site as I wasn't using flexbox in the rest of the site. This brought up an interesting bug I mentioned earlier which reversed the order of the menu but I was able to find a fix in the doc. 
+
+### Media
+
+- The hero image was taken from [Pexels](https://www.pexels.com/photo/a-band-performing-on-the-rooftop-7502559/).
 
 
 
