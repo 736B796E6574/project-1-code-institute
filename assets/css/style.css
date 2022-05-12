@@ -60,6 +60,7 @@ header {
     left: 0;
     position: fixed;
     width: 100vw;
+    z-index: 3;
 }
 
 nav li {
@@ -295,9 +296,23 @@ letter-spacing: 2px;
 #form{
     text-align: center;
    padding: 30px;
+   border-left:3px solid #FFD700;
+   border-right:3px solid #FFD700;
+   width:50%;
+   height:70%;
+   margin:0 auto;
+
 }
 
 #form-item{
     padding: 100px;
     display: inline-block;
+    margin: 50px;
+}
+
+#form-section h2{
+    padding-top: 30px;
+    color: #FFD700;
+    font-size: 2rem;
+text-decoration: underline;
 }
