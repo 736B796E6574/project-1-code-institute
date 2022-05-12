@@ -233,8 +233,9 @@ hr {
 #media {
     background-color: #12647F;
     width: 100vw;
-    height: 600px;
+    height: 100%;
     text-align: center;
+    margin-bottom: 50px;
 }
 
 #video {
@@ -255,3 +256,25 @@ hr {
 }
 
 #audio-container {}
+
+/* biography */
+
+#bio{
+    text-align: center;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+#bio h2{
+    font-size: 3rem;
+    line-height:150%;
+    letter-spacing: 2px;
+}
+
+#bio p{
+    width:60%;
+    position: relative;
+    margin: 50px auto;
+    line-height:150%;
+letter-spacing: 2px;
+}
