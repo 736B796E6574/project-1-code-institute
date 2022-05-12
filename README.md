@@ -111,7 +111,7 @@ Users of this website will be able to hear some samples of the artists work and 
 
 ### Accessibility
 
-- I confirmed that had a good accessibility score by using the Chrome Lighthouse tool.
+- I confirmed that the site had a good accessibility score by using the Chrome Lighthouse tool.
 
 ![Screenshot 2022-05-12 at 21 32 15](https://user-images.githubusercontent.com/98256205/168163039-cfe10dee-63f1-4671-916a-1916c18127ae.png)
 
