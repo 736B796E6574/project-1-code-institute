@@ -91,4 +91,12 @@ Users of this website will be able to hear some samples of the artists work and 
 
 - I have confirmed that the audio did not play without user input.
 
+## Bugs
+
+### Solved Bugs
+
+- I had an issue after deploying the hamburger menu where the links were in reverse order. I had to look into the flexbox documentation to discover the flex-direction: column-reverse; fix. 
+
+- I had an issue where some of the elements lower down the page were riding on top of the pinned nav-bar. I solved this by using the z-index property to raise the nav-bar above the rest of the elements.
+
 
