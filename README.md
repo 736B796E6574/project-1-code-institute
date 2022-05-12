@@ -77,6 +77,18 @@ Users of this website will be able to hear some samples of the artists work and 
 
 ![Screenshot 2022-05-12 at 20 44 18](https://user-images.githubusercontent.com/98256205/168155961-d4b418a5-193a-4da7-9f5a-5ee27a5aba80.png)
 
+## Testing
 
+- I have tested the website on Chrome, Firefox and Safari.
+
+- I have tested the site at different screen sizes using Chrome Developer Tools.
+
+- I have given the site to users for feedback on the experience.
+
+- I have confirmed that the links work on every page.
+
+- I have checked that the form requires valid inputs.
+
+- I have confirmed that the audio did not play without user input.
 
 
