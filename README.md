@@ -48,3 +48,20 @@ Users of this website will be able to hear some samples of the artists work and 
 - The left side about section features a short description of the artist. Again, this is to let the user know that they have found the correct website. 
 
 - The right side features a positive quote about one of the artists recent performances.
+
+![Screenshot 2022-05-12 at 20 35 48](https://user-images.githubusercontent.com/98256205/168154552-d8e89eb1-f5c4-47d0-a290-5a0817937b32.png)
+
+### Footer
+
+- The footer contains three links to sites that host the artists work.
+
+- The footer links change color when hovered to add some feedback to the user experience.
+
+### Listen Page/Section
+
+- Features a embedded video from youTube with some samples of saxophone music which help to allow the user to sample some of the artists work should they wish to hire them. 
+
+- Features an audio player which is set to autoplay but also loads muted to avoid impacting the user experience negatively.
+
+![Screenshot 2022-05-12 at 20 38 55](https://user-images.githubusercontent.com/98256205/168155067-280a8043-9e41-49fc-ac0a-20179254bc02.png)
+
