@@ -21,5 +21,10 @@ The navigation area clearly shows the logo so the user knows that they are in th
 
 
 ![Screenshot 2022-05-12 at 20 04 44](https://user-images.githubusercontent.com/98256205/168149757-109d577e-9ccf-406d-b97d-2ee1adca43b7.png)
+
+When the screen size is reduced to mobile size, a hamburger menu replaces the existing nav bar. The logo remains in it's position. This feature creates a clean interface on mobile. Without it, the nav bar could take up too much precious real estate and looked cluttered on smaller devices.
+
 ![Screenshot 2022-05-12 at 20 06 00](https://user-images.githubusercontent.com/98256205/168149951-2adb87c6-cc3e-4d36-8a33-d661e30b0379.png)
+
+
 ![Screenshot 2022-05-12 at 20 06 17](https://user-images.githubusercontent.com/98256205/168149959-72d8bf0e-36df-44e0-b575-414b5d079d6f.png)
