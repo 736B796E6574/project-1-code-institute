@@ -13,9 +13,9 @@ Users of this website will be able to hear some samples of the artists work and 
 
 ![Screenshot 2022-05-12 at 19 58 36](https://user-images.githubusercontent.com/98256205/168149131-4aced680-395f-458e-88a5-33d0ad595c06.png)
 
-Features
+## Features
 
-Navigation 
+### Navigation
 
 Featured at the top of the page on the left of the navigation bar is the logo. It links to the home page when clicked.
 
