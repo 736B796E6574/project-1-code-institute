@@ -26,5 +26,6 @@ When the screen size is reduced to mobile size, a hamburger menu replaces the ex
 
 ![Screenshot 2022-05-12 at 20 06 00](https://user-images.githubusercontent.com/98256205/168149951-2adb87c6-cc3e-4d36-8a33-d661e30b0379.png)
 
+The menu opens to show the links in a column and can be closed with the X.
 
 ![Screenshot 2022-05-12 at 20 06 17](https://user-images.githubusercontent.com/98256205/168149959-72d8bf0e-36df-44e0-b575-414b5d079d6f.png)
