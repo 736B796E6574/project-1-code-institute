@@ -71,7 +71,8 @@ Users of this website will be able to hear some samples of the artists work and 
 
 - Features a submit button which loads a page confirming that the submission has been accepted. 
 
--The "required" attribute has been utilised to ensure that the inputs are filled with valid data before sumbission. 
+- The "required" attribute has been utilised to ensure that the inputs are filled with valid data before sumbission. 
+
 ![Screenshot 2022-05-12 at 20 44 18](https://user-images.githubusercontent.com/98256205/168155961-d4b418a5-193a-4da7-9f5a-5ee27a5aba80.png)
 
 
