@@ -39,4 +39,12 @@ Users of this website will be able to hear some samples of the artists work and 
 
 ### Hero Image
 
-The hero image was selected for it's pleasing mix of colors that could help to keep the pallette consistent across the site. It feautures a saxophonist in the throes of a solo. The user can be sure that they have arrived at the right site.
+- The hero image was selected for it's pleasing mix of colors that could help to keep the pallette consistent across the site. It feautures a saxophonist in the throes of a solo. The user can be sure that they have arrived at the right site.
+
+![Screenshot 2022-05-12 at 20 30 56](https://user-images.githubusercontent.com/98256205/168153861-318b2a66-c74e-44e2-b845-d412eae77116.png)
+
+### About 
+
+- The left side about section features a short description of the artist. Again, this is to let the user know that they have found the correct website. 
+
+- The right side features a positive quote about one of the artists recent performances.
