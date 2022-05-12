@@ -328,3 +328,7 @@ hr {
     background-color: #12647F;
     text-align: center;
 }
+
+#about-hidden{
+    visibility: hidden;
+}
