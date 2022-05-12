@@ -115,5 +115,20 @@ Users of this website will be able to hear some samples of the artists work and 
 
 ![Screenshot 2022-05-12 at 21 32 15](https://user-images.githubusercontent.com/98256205/168163039-cfe10dee-63f1-4671-916a-1916c18127ae.png)
 
+###Unfixed Bugs
+
+-There are no unfixed bugs.
+
+## Deployment
+
+- This site was deployed using GitHub pages. The steps are as follows:
+    - In the GitHub repository, navigate to the settings tab.
+    - From the source section drop-down menu, select the master branch.
+    - Once the master branch had been selected, the page provided the link to the completed website.
+
+The live link can be found here [Supa Sax](https://martin-mcinerney.github.io/project-1-code-institute/index.html)
+
+
+
 
 
