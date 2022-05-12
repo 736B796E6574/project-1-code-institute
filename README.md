@@ -36,3 +36,7 @@ Users of this website will be able to hear some samples of the artists work and 
 - The menu opens to show the links in a column and can be closed with the X.
 
 ![Screenshot 2022-05-12 at 20 06 17](https://user-images.githubusercontent.com/98256205/168149959-72d8bf0e-36df-44e0-b575-414b5d079d6f.png)
+
+### Hero Image
+
+The hero image was selected for it's pleasing mix of colors that could help to keep the pallette consistent across the site. It feautures a saxophonist in the throes of a solo. The user can be sure that they have arrived at the right site.
