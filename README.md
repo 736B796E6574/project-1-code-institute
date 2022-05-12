@@ -99,4 +99,14 @@ Users of this website will be able to hear some samples of the artists work and 
 
 - I had an issue where some of the elements lower down the page were riding on top of the pinned nav-bar. I solved this by using the z-index property to raise the nav-bar above the rest of the elements.
 
+## Validator Testing
+
+### HTML
+
+- There were no errors found using the W3C HTML Validator.
+
+### CSS
+
+- There were no errors found using the W3C CSS Validator.
+
 
