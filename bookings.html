@@ -42,20 +42,22 @@
     </header>
     <hr>
 
-    <section id="form">
-    <form method="POST" action="#">
-        <label class="text-label" for="fname">First name:</label>
-        <input type="text" id="fname" name="fname" required><br>
-        <label class="text-label" for="lname">Last name:</label>
-        <input type="text" id="lname" name="lname" required><br>
-        <label class="text-label" for="email">Email:</label>
-        <input type="text" id="email" name="email" required><br>
-        <label class="text-label" for="message">Message:</label>
+    <section id="form-section">
+    <form idmethod="POST" action="#">
+        <label class="text-label" for="fname">First name:</label><br>
+        <input type="text" id="fname" name="fname" placeholder="Enter your first name." required><br>
+        <label class="text-label" for="lname">Last name:</label><br>
+        <input type="text" id="lname" name="lname" placeholder="Enter your second name." required><br>
+        <label class="text-label" for="email">Email:</label><br>
+        <input type="text" id="email" name="email" placeholder="Enter your email." required><br>
+        <label class="text-label" for="message">Message:</label><br>
         <textarea rows="10" cols="20" id="message" name="message" placeholder="Please click here to enter your message." required></textarea><br>
         <input type="submit" value="Submit">
 
     </form>
+    
     </section>
+    <hr>
     <footer id="footer">
         <ul id="social-links">
             <li><a href="https://spotify.com" target="_blank"><i class="fab fa-spotify"></i></a></li>

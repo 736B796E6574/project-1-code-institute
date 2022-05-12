@@ -278,3 +278,18 @@ hr {
     line-height:150%;
 letter-spacing: 2px;
 }
+
+#form-section{
+    background-color: #12647F;
+    text-align: center;
+}
+
+.text-label{
+    color: #FFD700;
+    font-size: 2rem;
+    
+}
+
+#form{
+    text-align: center;
+}
