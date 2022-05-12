@@ -331,3 +331,14 @@ text-decoration: underline;
     background-color: #12647F;
     color: lightblue;
 }
+
+#thanks h2{
+    font-size: 3rem;
+    color: #FFD700;
+    padding: 50px 0;
+}
+
+#thanks{
+    background-color: #12647F;
+    text-align: center;
+}
