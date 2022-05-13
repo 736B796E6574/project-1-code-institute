@@ -61,7 +61,7 @@ Users of this website will be able to hear some samples of the artists work and 
 
 - Features a embedded video from youTube with some samples of saxophone music which help to allow the user to sample some of the artists work should they wish to hire them. 
 
-- Features an audio player which is set to autoplay but also loads muted to avoid impacting the user experience negatively.
+- Features an audio player which has autoplay turned off and also loads muted to avoid impacting the user experience negatively.
 
 ![Screenshot 2022-05-12 at 20 38 55](https://user-images.githubusercontent.com/98256205/168155067-280a8043-9e41-49fc-ac0a-20179254bc02.png)
 
@@ -75,7 +75,7 @@ Users of this website will be able to hear some samples of the artists work and 
 
 - Placeholder text prompts the user to enter a value. This helps to make the user experience flow better.
 
-![Screenshot 2022-05-12 at 20 44 18](https://user-images.githubusercontent.com/98256205/168155961-d4b418a5-193a-4da7-9f5a-5ee27a5aba80.png)
+![contact form](../../Screenshot%202022-05-13%20at%2012.43.01.png)
 
 ## Testing
 
