@@ -75,7 +75,7 @@ Users of this website will be able to hear some samples of the artists work and 
 
 - Placeholder text prompts the user to enter a value. This helps to make the user experience flow better.
 
-![contact form](../../Screenshot%202022-05-13%20at%2012.43.01.png)
+![Screenshot 2022-05-13 at 12 43 01](https://user-images.githubusercontent.com/98256205/168278716-27e1e38d-f7e1-4108-895f-ee7fe4a02e75.png)
 
 ## Testing
 
