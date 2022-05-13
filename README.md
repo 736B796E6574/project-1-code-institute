@@ -75,6 +75,8 @@ Users of this website will be able to hear some samples of the artists work and 
 
 - Placeholder text prompts the user to enter a value. This helps to make the user experience flow better.
 
+- The submit button changes colour when hovered to alert the user that it is interactive.
+
 ![Screenshot 2022-05-13 at 12 43 01](https://user-images.githubusercontent.com/98256205/168278716-27e1e38d-f7e1-4108-895f-ee7fe4a02e75.png)
 
 ## Testing
