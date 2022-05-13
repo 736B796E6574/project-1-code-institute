@@ -14,7 +14,6 @@ body {
     font-style: italic;
 }
 
-
 /* hero-image */
 
 #hero-image {
@@ -134,10 +133,8 @@ nav a:hover {
 
     .nav-menu.active {
         left: 0;
-
     }
 }
-
 
 /* about */
 #about {
@@ -217,7 +214,6 @@ hr {
     color: #FFD700;
 }
 
-
 #media {
     background-color: #12647F;
     width: 100vw;
@@ -269,7 +265,7 @@ hr {
 /* form */
 #form-section {
     background-color: #12647F;
-    }
+}
 
 .text-label {
     color: #FFD700;
@@ -308,18 +304,18 @@ hr {
     font-size: 100%;
     text-transform: uppercase;
     border-radius: 10%;
-   }
+}
 
 #submit:hover {
     background-color: #12647F;
     color: lightblue;
 }
 
-.form-item input{
+.form-item input {
     width: 100%;
 }
 
-#message{
+#message {
     width: 100%;
 }
 
@@ -336,11 +332,10 @@ hr {
     text-align: center;
 }
 
-#about-hidden{
-     font-size: 3rem;
+#about-hidden {
+    font-size: 3rem;
     color: #FFD700;
     padding: 50px 0;
     margin: 0 auto;
     text-align: center;
-    
 }
