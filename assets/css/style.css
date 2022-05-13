@@ -308,12 +308,15 @@ hr {
     font-size: 2rem;
     text-transform: uppercase;
     border-radius: 10%;
-   
-}
+   }
 
 #submit:hover {
     background-color: #12647F;
     color: lightblue;
+}
+
+.form-item input{
+    width: 100%;
 }
 
 /* received/thanks page */
